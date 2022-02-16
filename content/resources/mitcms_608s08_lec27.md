@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation on designing digital games.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-608-game-design-spring-2008/2f5ff6d1647660ad87ca556719395ce6_MITCMS_608s08_lec27.pdf
+file: /media/courses/cms-608-game-design-spring-2008/2f5ff6d1647660ad87ca556719395ce6_MITCMS_608s08_lec27.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Digital Games
 uid: 2f5ff6d1-6476-60ad-87ca-556719395ce6

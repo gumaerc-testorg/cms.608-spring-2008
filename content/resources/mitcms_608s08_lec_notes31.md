@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on wrestling, meaning, and symbols. Courtesy of Sam Ford.
   Notes by Clara Rhee.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-608-game-design-spring-2008/26823f0723f3f5fef4fc0065f10f4ae1_MITCMS_608s08_lec_notes31.pdf
+file: /media/courses/cms-608-game-design-spring-2008/26823f0723f3f5fef4fc0065f10f4ae1_MITCMS_608s08_lec_notes31.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Guest lecture, Sam Ford: Wrestling, Meaning, and Symbols'
 uid: 26823f07-23f3-f5fe-f4fc-0065f10f4ae1

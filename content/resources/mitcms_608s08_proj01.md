@@ -2,8 +2,13 @@
 content_type: resource
 description: Instructions for an assignment to research a historical game, analyze
   it by applying the topics and methods that discussed in class, and write an essay.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-608-game-design-spring-2008/63d233912f683f9d31d583770ce0e5c4_MITCMS_608s08_proj01.pdf
+file: /media/courses/cms-608-game-design-spring-2008/63d233912f683f9d31d583770ce0e5c4_MITCMS_608s08_proj01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Research a Historical Game
 uid: 63d23391-2f68-3f9d-31d5-83770ce0e5c4

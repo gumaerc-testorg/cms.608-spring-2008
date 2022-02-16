@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation on game design, meaningful play, and iterative game
   design.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-608-game-design-spring-2008/a2a848079602d24d5baea1aa6b6eb49b_MITCMS_608s08_lec02.pdf
+file: /media/courses/cms-608-game-design-spring-2008/a2a848079602d24d5baea1aa6b6eb49b_MITCMS_608s08_lec02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Design
 uid: a2a84807-9602-d24d-5bae-a1aa6b6eb49b

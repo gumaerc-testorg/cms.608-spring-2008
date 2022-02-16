@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Example of student work: "Scrabble Search." David Butler, Justin Moe,
   Charles Tam.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-608-game-design-spring-2008/3bd11905150385595b75cc5941d2f931_bmt4.pdf
+file: /media/courses/cms-608-game-design-spring-2008/3bd11905150385595b75cc5941d2f931_bmt4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Scrabble Search
 uid: 3bd11905-1503-8559-5b75-cc5941d2f931

@@ -1,11 +1,13 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: f87464e3-f5f4-d282-55cf-aa4a5c1b6105
 ---
 
 The following photos are from session #3, where students were introduced to playtesting. They were given supplies to design and play a board game, including paper, Play-Doh, chess pieces, toy soldiers, dominos, dice, playing cards, index cards, Post-It notes, rulers, and markers. In groups of 4-6, students built a physical representation of the game board, drafted rules, and played 5-10 rounds before stopping for feedback. Changes were made to improve game balance, simplify or expand the ruleset, introduce extra features, and otherwise make the game more fun. Each new iteration of the game was tested for several rounds; at the end of the session, students presented their game design to the class, explaining their process and objectives.
-{{< image-gallery id="f87464e3-f5f4-d282-55cf-aa4a5c1b6105_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/cms-608-game-design-spring-2008/" >}}
+{{< image-gallery id="f87464e3-f5f4-d282-55cf-aa4a5c1b6105_nanogallery2" baseUrl="/courses/cms-608-game-design-spring-2008/" >}}
 {{< image-gallery-item href="151c10868aa88789a472a887b1203530_01.jpg" data-ngdesc="The board landscape can be built out of whatever is at hand, in addition to the supplies given to each group." text="The board landscape can be built out of whatever is at hand, in addition to the supplies given to each group." >}}
 {{< image-gallery-item href="321a97eb073917db9cf044d403cff8dc_02.jpg" data-ngdesc="As testing proceeds, its important to track each players score." text="As testing proceeds, its important to track each players score." >}}
 {{< image-gallery-item href="6cb6cd495982e66a4949883a6daba602_03.jpg" data-ngdesc="A second view of the board, now that pieces from both teams have moved." text="A second view of the board, now that pieces from both teams have moved." >}}

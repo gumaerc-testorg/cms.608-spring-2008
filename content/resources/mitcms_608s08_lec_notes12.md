@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes on card and guessing games. Notes by Clara Rhee.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-608-game-design-spring-2008/a24ca8924871b6c3031fad2bc0077070_MITCMS_608s08_lec_notes12.pdf
+file: /media/courses/cms-608-game-design-spring-2008/a24ca8924871b6c3031fad2bc0077070_MITCMS_608s08_lec_notes12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture: Card and Guessing Games'
 uid: a24ca892-4871-b6c3-031f-ad2bc0077070

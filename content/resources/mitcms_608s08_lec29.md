@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation on the role of social play in game design.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-608-game-design-spring-2008/86b7320fa952f994d1c5613a3a8a9745_MITCMS_608s08_lec29.pdf
+file: /media/courses/cms-608-game-design-spring-2008/86b7320fa952f994d1c5613a3a8a9745_MITCMS_608s08_lec29.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Social Play
 uid: 86b7320f-a952-f994-d1c5-613a3a8a9745

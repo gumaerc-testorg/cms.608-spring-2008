@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: e51d53fa-2112-b20a-e667-4094bcdb9a31
 ---
@@ -269,7 +271,7 @@ Guest lecture, Denis Dyack
 {{< tdopen >}}
 Workshop: Go, Chess, Xiangqi, Hasami Shogi, Draughts \[PT\]
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Check-in with the instructors about your board game design
 {{< tdclose >}}
 
