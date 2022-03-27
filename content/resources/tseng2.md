@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 167451ab-ae9a-6fa1-2944-d8eef3f43ed8
 resourcetype: Document
 title: Developing a Variant of Contract Bridge
 uid: cbeffdcb-429e-dff7-b31a-7c5360d3ebe3

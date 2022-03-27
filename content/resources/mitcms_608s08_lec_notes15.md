@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 12b60a52-0318-773e-6b72-f3b8c191d3ef
 resourcetype: Document
 title: 'Workshop: Racing Games (Parcheesi, Life, Goose, Mille Bournes)'
 uid: 51cc68c2-1031-631d-a9c4-bc86f646ec60

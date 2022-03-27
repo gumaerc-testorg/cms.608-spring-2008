@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 167451ab-ae9a-6fa1-2944-d8eef3f43ed8
 resourcetype: Document
 title: Use the Fours
 uid: e82de57d-75b0-584c-0c5c-6365fc7287b4

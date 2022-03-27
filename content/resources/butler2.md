@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 167451ab-ae9a-6fa1-2944-d8eef3f43ed8
 resourcetype: Document
 title: Second Individual Paper
 uid: 625f1b8e-d9c7-0622-0a0e-37122d9a15b9

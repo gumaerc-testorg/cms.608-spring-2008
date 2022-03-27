@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 167451ab-ae9a-6fa1-2944-d8eef3f43ed8
 resourcetype: Document
 title: 'Tron: the Board Game'
 uid: 9e0b95b6-efe0-d038-3ba1-7e59d73aefc5

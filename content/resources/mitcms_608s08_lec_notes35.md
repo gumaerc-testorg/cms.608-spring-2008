@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 12b60a52-0318-773e-6b72-f3b8c191d3ef
 resourcetype: Document
 title: 'Guest Lecture, Jason Haas: Improv Games'
 uid: 75e7cfc1-4412-4f78-616a-030ef61428c2

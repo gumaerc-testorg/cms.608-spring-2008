@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 12b60a52-0318-773e-6b72-f3b8c191d3ef
 resourcetype: Document
 title: 'Guest lecture, Joshua Green: That''s Just Not Cricket!'
 uid: 9d2f8c6c-fb52-1e78-92f3-b23de7e5a2a5

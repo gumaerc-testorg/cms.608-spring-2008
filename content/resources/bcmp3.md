@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 167451ab-ae9a-6fa1-2944-d8eef3f43ed8
 resourcetype: Document
 title: "Pok\xE9mon: The Board Game"
 uid: 336c2449-63c0-c8ca-77b8-eca6c4e4dc77

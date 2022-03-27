@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 12b60a52-0318-773e-6b72-f3b8c191d3ef
 resourcetype: Document
 title: Us vs. It
 uid: d9d5e02d-4038-e37b-5537-0112690ac06c

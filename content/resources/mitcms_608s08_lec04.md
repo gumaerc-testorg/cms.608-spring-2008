@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 12b60a52-0318-773e-6b72-f3b8c191d3ef
 resourcetype: Document
 title: Types of Fun & Game History
 uid: 09dadd26-fd0b-94ba-a8bc-4b2c661bc876

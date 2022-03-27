@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 12b60a52-0318-773e-6b72-f3b8c191d3ef
 resourcetype: Document
 title: 'Workshop: Fortunetelling, Games of Chance and Dice (Roulette, Bingo, Tarot)'
 uid: 219fdd1c-9e12-70e5-3f25-887306d3ef0a

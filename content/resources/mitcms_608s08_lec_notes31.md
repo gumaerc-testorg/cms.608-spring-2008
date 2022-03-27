@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 12b60a52-0318-773e-6b72-f3b8c191d3ef
 resourcetype: Document
 title: 'Guest lecture, Sam Ford: Wrestling, Meaning, and Symbols'
 uid: 26823f07-23f3-f5fe-f4fc-0065f10f4ae1

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fe2acdba-6475-7c4b-2da2-9c8d7aa03174
 resourcetype: Document
 title: 'Writing About Games: Analysis and Style'
 uid: f649475c-2cdf-807c-3fce-515330b7bd5f

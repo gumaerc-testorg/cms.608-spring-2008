@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 12b60a52-0318-773e-6b72-f3b8c191d3ef
 resourcetype: Document
 title: "Guest Workshop, Scot Osterweil: Playtesting Exercise \u2013 Poker Variants"
 uid: d13b4f5d-3305-b12a-1384-33b9cc29ed4a
