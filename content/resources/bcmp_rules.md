@@ -2,7 +2,7 @@
 content_type: resource
 description: "Example of student work: \"Pok\xE9mon: The Board Game Rules.\" David\
   \ Butler, Joshua Campoverde, Kenny Peng, Karena Tyan."
-file: /media/courses/cms-608-game-design-spring-2008/9bf8ca3e51c88f70ceae831b71f55ff0_bcmp_rules.pdf
+file: /courses/cms-608-game-design-spring-2008/9bf8ca3e51c88f70ceae831b71f55ff0_bcmp_rules.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -14,3 +14,5 @@ resourcetype: Document
 title: "Pok\xE9mon: The Board Game Rules"
 uid: 9bf8ca3e-51c8-8f70-ceae-831b71f55ff0
 ---
+Example of student work: "Pokémon: The Board Game Rules." David Butler, Joshua Campoverde, Kenny Peng, Karena Tyan.
+

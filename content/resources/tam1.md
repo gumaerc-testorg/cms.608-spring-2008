@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: "The Royal Game of Ur." Charles Tam.'
-file: /media/courses/cms-608-game-design-spring-2008/0797d2cea95ee03fe1af13f76bc7676c_tam1.pdf
+file: /courses/cms-608-game-design-spring-2008/0797d2cea95ee03fe1af13f76bc7676c_tam1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: The Royal Game of Ur
 uid: 0797d2ce-a95e-e03f-e1af-13f76bc7676c
 ---
+Example of student work: "The Royal Game of Ur." Charles Tam.
+

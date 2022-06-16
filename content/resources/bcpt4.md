@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: "Slide Slide Revolution." David Butler, Joshua
   Campoverde, Kenny Peng, Karena Tyan.'
-file: /media/courses/cms-608-game-design-spring-2008/da9be1a1eff34c37e1c11330839aac0e_bcpt4.pdf
+file: /courses/cms-608-game-design-spring-2008/da9be1a1eff34c37e1c11330839aac0e_bcpt4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -14,3 +14,5 @@ resourcetype: Document
 title: Slide Slide Evolution
 uid: da9be1a1-eff3-4c37-e1c1-1330839aac0e
 ---
+Example of student work: "Slide Slide Revolution." David Butler, Joshua Campoverde, Kenny Peng, Karena Tyan.
+

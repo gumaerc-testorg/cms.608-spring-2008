@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: "Rentoy." Sharat Bhat.'
-file: /media/courses/cms-608-game-design-spring-2008/84f33a4701ee6f553b7040365f9ca409_bhat1.pdf
+file: /courses/cms-608-game-design-spring-2008/84f33a4701ee6f553b7040365f9ca409_bhat1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Rentoy
 uid: 84f33a47-01ee-6f55-3b70-40365f9ca409
 ---
+Example of student work: "Rentoy." Sharat Bhat.
+
