@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-spring-2008/336c244963c0c8ca77b8eca6c4e4dc77_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Pok\xE9mon: The Board Game"
 uid: 336c2449-63c0-c8ca-77b8-eca6c4e4dc77
 ---
 Example of student work: "Pokémon: The Board Game." David Butler, Joshua Campoverde, Justin Moe, and Kenny Peng.
-

@@ -5,6 +5,7 @@ file: /courses/cms-608-game-design-spring-2008/cfa75d28343cccf31fde76de42c8f5e5_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Pokermon
 uid: cfa75d28-343c-ccf3-1fde-76de42c8f5e5
 ---
 Example of student work: "Pokerman." Justin Moe.
-

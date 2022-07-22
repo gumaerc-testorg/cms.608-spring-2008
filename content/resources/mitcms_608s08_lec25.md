@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-spring-2008/d9d5e02d4038e37b55370112690ac06c_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Us vs. It
 uid: d9d5e02d-4038-e37b-5537-0112690ac06c
 ---
 Lecture presentation on a designing a turn-based cooperative strategy game.
-

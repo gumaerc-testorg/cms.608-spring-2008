@@ -5,6 +5,7 @@ file: /courses/cms-608-game-design-spring-2008/93a29302d2dddcfae43410811aa61e96_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Zombie Attack!
 uid: 93a29302-d2dd-dcfa-e434-10811aa61e96
 ---
 Example of student work: "Zombie Attack!" Neil Dowgun.
-

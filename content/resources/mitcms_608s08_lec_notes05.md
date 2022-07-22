@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-spring-2008/26e0fd694dc926d456c3add49db9830f_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture: Game Design Patterns and Twenty Formal Game Questions'
 uid: 26e0fd69-4dc9-26d4-56c3-add49db9830f
 ---
 Lecture notes on game design patterns and twenty formal game questions. Notes by Clara Rhee.
-

@@ -5,6 +5,7 @@ file: /courses/cms-608-game-design-spring-2008/59f727feac8fc5a4c7792c92eaf67d7d_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Workshop: Narrative Play (Riddles, Puzzles, and Word Games)'
 uid: 59f727fe-ac8f-c5a4-c779-2c92eaf67d7d
 ---
 Lecture notes on puzzle design. Notes by Clara Rhee.
-

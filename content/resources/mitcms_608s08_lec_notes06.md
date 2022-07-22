@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-spring-2008/d13b4f5d3305b12a138433b9cc29ed4a_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Guest Workshop, Scot Osterweil: Playtesting Exercise \u2013 Poker Varian
 uid: d13b4f5d-3305-b12a-1384-33b9cc29ed4a
 ---
 Lecture notes on playtesting games and poker variants. Guest lecturer Scot Osterweil. Notes by Clara Rhee.
-

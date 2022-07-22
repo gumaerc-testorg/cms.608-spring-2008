@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-spring-2008/d09d3c8f03e8a4359fc524c7b0062144_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Emergence, Cybernetic Systems
 uid: d09d3c8f-03e8-a435-9fc5-24c7b0062144
 ---
 Lecture presentation on positive/negative feedback examples, dynamic difficulty adjustment, and emergence in games design.
-

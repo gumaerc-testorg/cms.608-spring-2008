@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-spring-2008/3bd11905150385595b75cc5941d2f931_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Scrabble Search
 uid: 3bd11905-1503-8559-5b75-cc5941d2f931
 ---
 Example of student work: "Scrabble Search." David Butler, Justin Moe, Charles Tam.
-

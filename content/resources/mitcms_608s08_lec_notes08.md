@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-spring-2008/219fdd1c9e1270e53f25887306d3ef0a_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Workshop: Fortunetelling, Games of Chance and Dice (Roulette, Bingo, Tar
 uid: 219fdd1c-9e12-70e5-3f25-887306d3ef0a
 ---
 Lecture notes on the history of the classification of games, fortunetelling, and games of chance (Roulette, Bingo, Tarot). Notes by Clara Rhee.
-

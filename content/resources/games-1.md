@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-spring-2008/6e4d13dbc543f1df09387d3d3b7db5af_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Writing About Games: Analysis and Style'
 uid: 6e4d13db-c543-f1df-0938-7d3d3b7db5af
 ---
 Guidelines on writing about game design and playtesting procedures. Topics include common mistakes, argumentation, structure, references, and style.
-

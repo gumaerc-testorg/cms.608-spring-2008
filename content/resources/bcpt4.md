@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-spring-2008/da9be1a1eff34c37e1c11330839aac0e_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Slide Slide Evolution
 uid: da9be1a1-eff3-4c37-e1c1-1330839aac0e
 ---
 Example of student work: "Slide Slide Revolution." David Butler, Joshua Campoverde, Kenny Peng, Karena Tyan.
-

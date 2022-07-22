@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-spring-2008/8e9de2cbd07fbb948c4fd2482ae51679_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Workshop: Doris'' 1000 Blank Cards'
 uid: 8e9de2cb-d07f-bb94-8c4f-d2482ae51679
 ---
 Lecture notes on the role of rules and fiction in games. Notes by Clara Rhee.
-

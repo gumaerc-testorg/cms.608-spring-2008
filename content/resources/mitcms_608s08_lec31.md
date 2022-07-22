@@ -5,6 +5,7 @@ file: /courses/cms-608-game-design-spring-2008/e789212534902c110138d659368675be_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Guest lecture, Sam Ford: Wrestling, Meaning, and Symbols'
 uid: e7892125-3490-2c11-0138-d659368675be
 ---
 Lecture notes on wrestling, meaning, and symbols. Courtesy of Sam Ford.
-

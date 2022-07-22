@@ -5,6 +5,7 @@ file: /courses/cms-608-game-design-spring-2008/b6a82516214d26a8361c693897047322_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture: Information'
 uid: b6a82516-214d-26a8-361c-693897047322
 ---
 Lecture presentation on information and uncertainty in games. 
-

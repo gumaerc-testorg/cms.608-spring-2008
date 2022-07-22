@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-spring-2008/93069c474ba0a90062306a08d1cf4afd_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Exploiting the Constraints of the Medium: Lessons from Table Table-top v
 uid: 93069c47-4ba0-a900-6230-6a08d1cf4afd
 ---
 Lecture slides on lessons from table table-top versus live action roleplaying on computer games.
-

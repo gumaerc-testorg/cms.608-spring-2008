@@ -5,6 +5,7 @@ file: /courses/cms-608-game-design-spring-2008/86b7320fa952f994d1c5613a3a8a9745_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Social Play
 uid: 86b7320f-a952-f994-d1c5-613a3a8a9745
 ---
 Lecture presentation on the role of social play in game design.
-

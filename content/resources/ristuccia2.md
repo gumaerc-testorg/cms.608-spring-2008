@@ -5,6 +5,7 @@ file: /courses/cms-608-game-design-spring-2008/bd2de1d9becbcb98732fd9d15083d0e9_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 3-2-x-1 Psycho Stud (Psycho Stud)
 uid: bd2de1d9-becb-cb98-732f-d9d15083d0e9
 ---
 Example of student work: "3-2-x-1 Psycho Stud (Psycho Stud)." Nick Ristuccia.
-

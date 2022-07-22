@@ -5,6 +5,7 @@ file: /courses/cms-608-game-design-spring-2008/2d682ee14d6dd6ad53206a9e165bfbae_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Tablut Reconstruction
 uid: 2d682ee1-4d6d-d6ad-5320-6a9e165bfbae
 ---
 Example of student work: "Tablut Reconstruction." Justin Moe.
-

@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-spring-2008/137bbbc8b404efe8670fd6d3173cd4bf_
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture: Possibility Space'
 uid: 137bbbc8-b404-efe8-670f-d6d3173cd4bf
 ---
 Lecture notes on game theory, possibility space, and the prisoner's dilemma. Notes by Clara Rhee.
-
