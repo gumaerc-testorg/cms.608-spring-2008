@@ -20,7 +20,7 @@ Fullerton, Tracy. _Game Design Workshop_. 2nd ed. Burlington, MA: Morgan Kaufman
 
 Gygax, Gary, and Dave Arneson. _Dungeons and Dragons_. Lake Geneva, WI: Tactical Studies Rules, 1974.
 
-Hunicke, Robin, Marc LeBlanc, and Robert Zubek. "MDA: A Formal Approach to Game Design and Game Research." In _Proceedings of the Challenges in Game AI Workshop at the 19th National Conference on Artificial Intelligence_. San Jose, CA: AAAI Press, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cs.northwestern.edu/~hunicke/MDA.pdf))
+Hunicke, Robin, Marc LeBlanc, and Robert Zubek. "MDA: A Formal Approach to Game Design and Game Research." In _Proceedings of the Challenges in Game AI Workshop at the 19th National Conference on Artificial Intelligence_. San Jose, CA: AAAI Press, 2004. ([PDF](http://www.cs.northwestern.edu/~hunicke/MDA.pdf))
 
 Juul, Jesper. "[Swap Adjacent Gems to Make Sets of Three: A History of Matching Tile Games](http://www.jesperjuul.net/text/swapadjacent/)." _Artifact_ 1 (2007): 205-216.
 
@@ -125,7 +125,7 @@ Lecture: types of fun and game history \[JJ\]
 {{< tdopen >}}
 
 
-Hunicke, LeBlanc, and Zubek. "MDA: A Formal Approach to Game Design and Game Research." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cs.northwestern.edu/~hunicke/MDA.pdf))
+Hunicke, LeBlanc, and Zubek. "MDA: A Formal Approach to Game Design and Game Research." ([PDF](http://www.cs.northwestern.edu/~hunicke/MDA.pdf))
 
 Juul, Jesper. "[Swap Adjacent Gems to Make Sets of Three: A History of Matching Tile Games](http://www.jesperjuul.net/text/swapadjacent/)."
 
