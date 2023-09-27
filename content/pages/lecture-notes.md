@@ -53,7 +53,7 @@ What games and sports do the students/instructors play? Introduction to first re
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec01)) (Courtesy of Harvey Smith. Used with permission.)
+({{% resource_link a10be2bc-9b65-b98f-1167-a9e8cb44418b "PDF" %}}) (Courtesy of Harvey Smith. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +68,7 @@ Lecture: design \[JJ\]
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec02))
+({{% resource_link a2a84807-9602-d24d-5bae-a1aa6b6eb49b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,10 +95,10 @@ Workshop: introduction to playtesting \[DR\]
 Lecture: types of fun and game history \[JJ\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes04))
+({{% resource_link 7ca9543c-a537-c55c-cbf4-1aae50acc05f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec04))
+({{% resource_link 09dadd26-fd0b-94ba-a8bc-4b2c661bc876 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,10 +110,10 @@ Lecture: types of fun and game history \[JJ\]
 Lecture: game design patterns and twenty formal game questions \[DR, CFV\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes05))
+({{% resource_link 26e0fd69-4dc9-26d4-56c3-add49db9830f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec05))
+({{% resource_link a6bbde50-6380-807b-2978-33b8c1036999 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +125,7 @@ Lecture: game design patterns and twenty formal game questions \[DR, CFV\]
 Guest workshop, Scot Osterweil: playtesting exercise – poker variants
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes06))
+({{% resource_link d13b4f5d-3305-b12a-1384-33b9cc29ed4a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -155,7 +155,7 @@ Guest lecture, Barry Kudrowitz: toys
 Workshop: fortunetelling, games of chance and dice (Roulette, Bingo, Tarot) \[CFV\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes08))
+({{% resource_link 219fdd1c-9e12-70e5-3f25-887306d3ef0a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -170,7 +170,7 @@ Workshop: fortunetelling, games of chance and dice (Roulette, Bingo, Tarot) \[CF
 Lecture: competition and chance \[PT\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes09))
+({{% resource_link 21c2504d-ba16-808a-fc3f-2bc7f48369d9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -185,7 +185,7 @@ Lecture: competition and chance \[PT\]
 Lecture: the player \[CFV\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes10))
+({{% resource_link 5a24b322-a2cd-fadf-3439-08b66927430a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -200,7 +200,7 @@ Lecture: the player \[CFV\]
 Workshop: Doris' 1000 blank cards \[DR\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes11))
+({{% resource_link 8e9de2cb-d07f-bb94-8c4f-d2482ae51679 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -215,7 +215,7 @@ Workshop: Doris' 1000 blank cards \[DR\]
 Lecture: card and guessing games \[PT\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes12))
+({{% resource_link a24ca892-4871-b6c3-031f-ad2bc0077070 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -230,10 +230,10 @@ Lecture: card and guessing games \[PT\]
 Lecture: information \[PT\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes13))
+({{% resource_link 9ff7f47d-d7ff-6b8c-257f-b147efd1ef7d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec13))
+({{% resource_link b6a82516-214d-26a8-361c-693897047322 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,7 +245,7 @@ Lecture: information \[PT\]
 Workshop: initial presentation poker deck game, playtest to get feedback, and suggest changes \[all\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes14))
+({{% resource_link 07f438aa-8914-27d1-fc92-898ae71ef140 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -260,7 +260,7 @@ Workshop: initial presentation poker deck game, playtest to get feedback, and su
 Workshop: racing games (Parcheesi, Life, Goose, Mille Bournes) \[CFV\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes15))
+({{% resource_link 51cc68c2-1031-631d-a9c4-bc86f646ec60 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -275,7 +275,7 @@ Workshop: racing games (Parcheesi, Life, Goose, Mille Bournes) \[CFV\]
 Lecture: racing games \[CFV\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes16))
+({{% resource_link e2ef43ef-66ec-8706-5d82-9a104cb26c08 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -350,7 +350,7 @@ Workshop: Go, Chess, Xiangqi, Hasami Shogi, Draughts \[PT\]
 Lecture: possibility space \[PT\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes21))
+({{% resource_link 137bbbc8-b404-efe8-670f-d6d3173cd4bf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -365,10 +365,10 @@ Lecture: possibility space \[PT\]
 Lecture: feedback and emergence \[JJ\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes22))
+({{% resource_link f0386326-c487-bb28-29a6-6042f5658300 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec22))
+({{% resource_link d09d3c8f-03e8-a435-9fc5-24c7b0062144 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -395,10 +395,10 @@ Workshop: board game playtest
 Lecture: bending and breaking \[JJ\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes24))
+({{% resource_link 055e8ccd-46a0-c01a-98bc-4aaed200cfed "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec24))
+({{% resource_link c81c2f52-e799-0d94-9c0a-45fd14f97f11 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -413,7 +413,7 @@ Guest lecture, Marc LeBlanc
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec25)) (Courtesy of Marc LeBlanc. Used with permission.)
+({{% resource_link d9d5e02d-4038-e37b-5537-0112690ac06c "PDF" %}}) (Courtesy of Marc LeBlanc. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -440,10 +440,10 @@ Workshop: LAN party (conflict, competition, and cooperation) \[PT\]
 Lecture: digital games \[JJ\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes27))
+({{% resource_link 2619c5ed-61ad-c534-6ab3-2a87d59f2c33 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec27))
+({{% resource_link 2f5ff6d1-6476-60ad-87ca-556719395ce6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -455,7 +455,7 @@ Lecture: digital games \[JJ\]
 Lecture: abstraction and simulation \[all\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes28))
+({{% resource_link b09c9b9f-4e0e-fddd-aa12-3363657bd47d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -473,7 +473,7 @@ Lecture: social play \[JJ\]
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec29))
+({{% resource_link 86b7320f-a952-f994-d1c5-613a3a8a9745 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -485,10 +485,10 @@ Lecture: social play \[JJ\]
 Workshop: narrative play (riddles, puzzles, and word games) \[DR, CFV\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes30))
+({{% resource_link 59f727fe-ac8f-c5a4-c779-2c92eaf67d7d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec30))
+({{% resource_link b2e6910d-dd10-af5e-adc4-9acf6dab1a68 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -500,10 +500,10 @@ Workshop: narrative play (riddles, puzzles, and word games) \[DR, CFV\]
 Guest lecture, Sam Ford: wrestling, meaning, and symbols
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes31))
+({{% resource_link 26823f07-23f3-f5fe-f4fc-0065f10f4ae1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec31)) (Courtesy of Sam Ford. Used with permission.)
+({{% resource_link e7892125-3490-2c11-0138-d659368675be "PDF" %}}) (Courtesy of Sam Ford. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -515,7 +515,7 @@ Guest lecture, Sam Ford: wrestling, meaning, and symbols
 Guest lecture, Joshua Green: That's Just Not Cricket!
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes32))
+({{% resource_link 9d2f8c6c-fb52-1e78-92f3-b23de7e5a2a5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -548,7 +548,7 @@ Guest lecture, Stephen Balzac: exploiting the constraints
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec34)) (Courtesy of Stephen Balzac. Used with permission.)
+({{% resource_link 93069c47-4ba0-a900-6230-6a08d1cf4afd "PDF" %}}) (Courtesy of Stephen Balzac. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -560,7 +560,7 @@ Guest lecture, Stephen Balzac: exploiting the constraints
 Guest lecture, Jason Haas: improv games
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_608s08_lec_notes35))
+({{% resource_link 75e7cfc1-4412-4f78-616a-030ef61428c2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

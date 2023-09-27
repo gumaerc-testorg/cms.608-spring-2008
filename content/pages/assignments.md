@@ -7,9 +7,9 @@ title: Assignments
 uid: fe2acdba-6475-7c4b-2da2-9c8d7aa03174
 ---
 
-Guide to Writing about Games ([PDF]({{< baseurl >}}/resources/games))
+Guide to Writing about Games ({{% resource_link f649475c-2cdf-807c-3fce-515330b7bd5f "PDF" %}})
 
-1st Essay: Research a Historical Game ([Examples]({{< baseurl >}}/pages/projects#first_essay))
+1st Essay: Research a Historical Game ({{% resource_link 167451ab-ae9a-6fa1-2944-d8eef3f43ed8 "Examples" "#first_essay" %}})
 ----------------------------------------------------------------------------------------------
 
 Find a game that is at least 100 years old. Analyze it by applying the topics and methods that we have discussed in class. Play the game with friends or classmates and make any changes to make it playable today, if necessary. Document any changes that you made to the game, and of course playtest them.
@@ -18,7 +18,7 @@ In the paper, you should analyze the game and address your playtest process—wh
 
 In your paper, do not forget to include the original game rules, the outcomes of your testing, and any amendments you made. Diagrams are encouraged. 1000-1500 words. Due in Lec #7.
 
-2nd Essay: Design a Clubhouse Game Variant ([Examples]({{< baseurl >}}/pages/projects#second_essay))
+2nd Essay: Design a Clubhouse Game Variant ({{% resource_link 167451ab-ae9a-6fa1-2944-d8eef3f43ed8 "Examples" "#second_essay" %}})
 ----------------------------------------------------------------------------------------------------
 
 Design a new variant of a classic clubhouse game (e.g. Cribbage, Poker, Bridge, Blackjack, Rummy) playable using a standard poker deck and chips. Applying the topics and methods that we have discussed in class, playtest the game extensively and document any changes that you made to the game. Investigate similar variants, if any, and aim to create something unique.
@@ -29,7 +29,7 @@ Remember! Make references to the class readings and use the terminology and tech
 
 In your paper, do not forget to include the different versions of your game rules, the outcomes of your testing, and any amendments you made. Diagrams are encouraged. 1500-3000 words. Due in Lec #16.
 
-1st Team Project: Adapt a Non-Board Game ([Examples]({{< baseurl >}}/pages/projects#first_team_project))
+1st Team Project: Adapt a Non-Board Game ({{% resource_link 167451ab-ae9a-6fa1-2944-d8eef3f43ed8 "Examples" "#first_team_project" %}})
 --------------------------------------------------------------------------------------------------------
 
 In teams of 3 or 4, design a board game that's an adaptation of a non-board game, e.g. sports, game shows, videogames, card games, or playground games. Your game may require between two to four players. If it can accommodate a variable number of players, state any rule changes necessary for different-sized groups. You may use up to five six-sided dice. You may require the players to provide up to six different colors of generic, identically-shaped tokens in any quantity. (We will test your game by having six different colors of beads on hand.) If your game requires play money, recommend the quantity of denominations of the currency for an ideal number of players. Your submission should include your game rules, token/dice requirements, game board, and any custom cards submitted in hardcopy and PDF format. Due in Lec #25.
@@ -40,7 +40,7 @@ Remember! Make references to relevant class readings and use the terminology and
 
 In your paper, do not forget to include the different versions of your game rules, the outcomes of your testing, and any amendments you made. Diagrams are required.
 
-2nd Team Project: Design an Original Game ([Examples]({{< baseurl >}}/pages/projects#second_team_project))
+2nd Team Project: Design an Original Game ({{% resource_link 167451ab-ae9a-6fa1-2944-d8eef3f43ed8 "Examples" "#second_team_project" %}})
 ----------------------------------------------------------------------------------------------------------
 
 In teams of 3 or 4 students, design a game to meet the following constraints:

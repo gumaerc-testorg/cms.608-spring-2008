@@ -30,7 +30,9 @@
   },
   "course_title": "Game Design",
   "course_description": "An historical examination and analysis of the evolution and development of games and game mechanics. Topics include a large breadth of genres and types of games, including sports, game shows, games of chance, schoolyard games, board games, roleplaying games, and digital games. Students submit essays documenting research and analysis of a variety of traditional and eclectic games. Project teams required to design, develop, and thoroughly test their original games.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "CMS.864",
   "primary_course_number": "CMS.608",
   "course_image_thumbnail": {
@@ -44,6 +46,7 @@
     "Written Assignments with Examples",
     "Design Assignments with Examples"
   ],
-  "site_uid": "01431cc2-a100-4963-acb7-2dd86a73e1ad",
+  "site_uid": "bf6c6e66-f083-4e43-8cfa-4e650379266a",
+  "site_short_id": "cms.608-spring-2008",
   "title": "Course Metadata"
 }
