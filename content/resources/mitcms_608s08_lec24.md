@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on emergence, bending and breaking rules, cheating,
   and adding rule changes to a game.
 file: /courses/cms-608-game-design-spring-2008/c81c2f52e7990d949c0a45fd14f97f11_MITCMS_608s08_lec24.pdf
+file_size: 52849
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on emergence, cybernetic systems, positive and negative
   feedback in Cybernetic Systems, DDA, and kinds of games. Notes by Clara Rhee.
 file: /courses/cms-608-game-design-spring-2008/f0386326c487bb2829a66042f5658300_MITCMS_608s08_lec_notes22.pdf
+file_size: 25770
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

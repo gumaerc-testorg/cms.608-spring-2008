@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on the role of rules and fiction in games. Notes by Clara
   Rhee.
 file: /courses/cms-608-game-design-spring-2008/8e9de2cbd07fbb948c4fd2482ae51679_MITCMS_608s08_lec_notes11.pdf
+file_size: 30938
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: "Scrabble Search." David Butler, Justin Moe,
   Charles Tam.'
 file: /courses/cms-608-game-design-spring-2008/3bd11905150385595b75cc5941d2f931_bmt4.pdf
+file_size: 189548
 file_type: application/pdf
 learning_resource_types:
 - Projects

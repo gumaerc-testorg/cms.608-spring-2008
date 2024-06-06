@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on card and guessing games. Notes by Clara Rhee.
 file: /courses/cms-608-game-design-spring-2008/a24ca8924871b6c3031fad2bc0077070_MITCMS_608s08_lec_notes12.pdf
+file_size: 21113
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

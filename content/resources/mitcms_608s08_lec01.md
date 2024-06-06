@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on elements of game design. Courtesy of Harvey Smith.
 file: /courses/cms-608-game-design-spring-2008/a10be2bc9b65b98f1167a9e8cb44418b_MITCMS_608s08_lec01.pdf
+file_size: 39648
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

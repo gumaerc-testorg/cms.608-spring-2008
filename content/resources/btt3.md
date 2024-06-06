@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: "Fluxx: the Board Game." Sharat Bhat, Charles
   Tam, Karena Tyan.'
 file: /courses/cms-608-game-design-spring-2008/cb77cc199a84c0596b3bb928b89a0eba_btt3.pdf
+file_size: 176725
 file_type: application/pdf
 learning_resource_types:
 - Projects

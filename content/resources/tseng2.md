@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: "Developing a Variant of Contract Bridge."
   Tiffany Tseng.'
 file: /courses/cms-608-game-design-spring-2008/cbeffdcb429edff7b31a7c5360d3ebe3_tseng2.pdf
+file_size: 81498
 file_type: application/pdf
 learning_resource_types:
 - Projects

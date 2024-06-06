@@ -3,6 +3,7 @@ content_type: resource
 description: This file includes details on presenting and playtesting the modified
   clubhouse game for the second paper. Notes by Clara Rhee.
 file: /courses/cms-608-game-design-spring-2008/07f438aa891427d1fc92898ae71ef140_MITCMS_608s08_lec_notes14.pdf
+file_size: 20847
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

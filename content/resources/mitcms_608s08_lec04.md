@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on game history as incremental evolution and game
   design as model-driven architecture.
 file: /courses/cms-608-game-design-spring-2008/09dadd26fd0b94baa8bc4b2c661bc876_MITCMS_608s08_lec04.pdf
+file_size: 468993
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

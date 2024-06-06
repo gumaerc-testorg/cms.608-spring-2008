@@ -3,6 +3,7 @@ content_type: resource
 description: Instructions for an assignment to research a historical game, analyze
   it by applying the topics and methods that discussed in class, and write an essay.
 file: /courses/cms-608-game-design-spring-2008/63d233912f683f9d31d583770ce0e5c4_MITCMS_608s08_proj01.pdf
+file_size: 23335
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on playing board games.
 file: /courses/cms-608-game-design-spring-2008/51cc68c21031631da9c4bc86f646ec60_MITCMS_608s08_lec_notes15.pdf
+file_size: 20905
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
