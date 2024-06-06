@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on game history, incremental evolution, and types of fun.
   Notes by Clara Rhee.
 file: /courses/cms-608-game-design-spring-2008/7ca9543ca537c55ccbf41aae50acc05f_MITCMS_608s08_lec_notes04.pdf
+file_size: 38013
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

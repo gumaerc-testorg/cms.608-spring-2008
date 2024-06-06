@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for team project to design an original game.
 file: /courses/cms-608-game-design-spring-2008/9ab6ae82308f2d0454f2477398f7a8f8_MITCMS_608s08_proj04.pdf
+file_size: 36759
 file_type: application/pdf
 learning_resource_types:
 - Projects

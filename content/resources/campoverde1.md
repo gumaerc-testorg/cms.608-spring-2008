@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Example of student work: "Continental Checkers." Joshua Campoverde.'
 file: /courses/cms-608-game-design-spring-2008/c3067f8c7ee91fcb6e31797f15239d51_campoverde1.pdf
+file_size: 1049187
 file_type: application/pdf
 learning_resource_types:
 - Projects

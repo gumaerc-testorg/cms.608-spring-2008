@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on game design, meaningful play, and iterative game
   design.
 file: /courses/cms-608-game-design-spring-2008/a2a848079602d24d5baea1aa6b6eb49b_MITCMS_608s08_lec02.pdf
+file_size: 51985
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

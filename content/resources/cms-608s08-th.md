@@ -3,6 +3,7 @@ content_type: resource
 description: Students in this course built and tested their own games, under a variety
   of constraints. (Photo courtesy of OpenCourseWare Staff.)
 file: /courses/cms-608-game-design-spring-2008/fab0749baae05b25053afe633fa4211a_cms-608s08-th.jpg
+file_size: 13365
 file_type: image/jpeg
 image_metadata:
   caption: Students in this course built and tested their own games, under a variety
