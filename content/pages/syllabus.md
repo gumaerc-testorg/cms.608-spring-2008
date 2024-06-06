@@ -86,4 +86,4 @@ Required Readings
 
 The textbook for this class will be:
 
-{{% resource_link "78ed0b69-1efc-4f2b-a339-a33c26ec67e6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Salen, K., and E. Zimmerman. {{% resource_link "78ed0b69-1efc-4f2b-a339-a33c26ec67e6" "_Rules of Play: Game Design Fundamentals_" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 9780262240451.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262240451) Salen, K., and E. Zimmerman. [_Rules of Play: Game Design Fundamentals_](https://mitpress.mit.edu/9780262240451). Cambridge, MA: MIT Press, 2003. ISBN: 9780262240451.

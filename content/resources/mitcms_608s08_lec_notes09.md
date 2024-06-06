@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on competition, chance, and luck in game design. Notes
   by Clara Rhee.
 file: /courses/cms-608-game-design-spring-2008/21c2504dba16808afc3f2bc7f48369d9_MITCMS_608s08_lec_notes09.pdf
+file_size: 22864
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

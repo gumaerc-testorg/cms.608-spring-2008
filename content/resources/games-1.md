@@ -3,6 +3,7 @@ content_type: resource
 description: Guidelines on writing about game design and playtesting procedures. Topics
   include common mistakes, argumentation, structure, references, and style.
 file: /courses/cms-608-game-design-spring-2008/6e4d13dbc543f1df09387d3d3b7db5af_games.pdf
+file_size: 117070
 file_type: application/pdf
 learning_resource_types:
 - Projects

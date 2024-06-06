@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Example of student work: "Zombie Attack!" Neil Dowgun.'
 file: /courses/cms-608-game-design-spring-2008/93a29302d2dddcfae43410811aa61e96_dowgun1.pdf
+file_size: 107088
 file_type: application/pdf
 learning_resource_types:
 - Projects
