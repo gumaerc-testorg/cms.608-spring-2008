@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on improvisational games. Courtesy of Jason Haas. Notes
   by Clara Rhee.
-file: /courses/cms-608-game-design-spring-2008/75e7cfc144124f78616a030ef61428c2_MITCMS_608s08_lec_notes35.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/75e7cfc144124f78616a030ef61428c2_MITCMS_608s08_lec_notes35.pdf
 file_size: 21853
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: "Tron: the Board Game." Nick Ristuccia, Zack
   Reeve, Neil Dowgun.'
-file: /courses/cms-608-game-design-spring-2008/9e0b95b6efe0d0383ba17e59d73aefc5_rrd3.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/9e0b95b6efe0d0383ba17e59d73aefc5_rrd3.pdf
 file_size: 323182
 file_type: application/pdf
 learning_resource_types:

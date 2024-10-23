@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on game design patterns and twenty formal game questions.
   Notes by Clara Rhee.
-file: /courses/cms-608-game-design-spring-2008/26e0fd694dc926d456c3add49db9830f_MITCMS_608s08_lec_notes05.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/26e0fd694dc926d456c3add49db9830f_MITCMS_608s08_lec_notes05.pdf
 file_size: 36419
 file_type: application/pdf
 learning_resource_types:

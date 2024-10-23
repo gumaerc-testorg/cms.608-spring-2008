@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Readings
 uid: b5f629aa-568f-ba3c-25ba-92adfbed35c0
 ---
-This section presents readings by session after a complete list of citations, as well as [additional readings](#additional_readings) for the course.
+This section presents readings by session after a complete list of citations, as well as [additional readings](https://ocw-studio.odl.mit.edu/sites/cms-608-game-design-spring-2008/type/page/edit/b5f629aa-568f-ba3c-25ba-92adfbed35c0/#additional_readings) for the course.
 
 ## Assigned Readings
 
@@ -349,5 +349,3 @@ Kim, Scott. "What is a Puzzle?"
 Orbanes, Philip E. "Learning the Game: 1898-1910." Chapter 2 in *The Game Makers: The Story of Parker Brothers, from Tiddledy Winks to Trivial Pursuit*. Cambridge, MA: Harvard Business School Press, 2003. ISBN: 9781591392699.
 
 Stewart, Sean. "[Alternate Reality Games](http://www2.bgsu.edu/departments/english/cconline/gaming_issue_2008/Bono_ARG/whatareargs.html)."
-
-[Game Ontology](http://www.fisme.science.uu.nl/en/wiki/index.php/Game_Ontology_Project)

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on information and uncertainty in games. Notes by Clara
   Rhee.
-file: /courses/cms-608-game-design-spring-2008/9ff7f47dd7ff6b8c257fb147efd1ef7d_MITCMS_608s08_lec_notes13.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/9ff7f47dd7ff6b8c257fb147efd1ef7d_MITCMS_608s08_lec_notes13.pdf
 file_size: 30034
 file_type: application/pdf
 learning_resource_types:
