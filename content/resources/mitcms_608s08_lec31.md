@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on wrestling, meaning, and symbols. Courtesy of Sam Ford.
-file: /courses/cms-608-game-design-spring-2008/e789212534902c110138d659368675be_MITCMS_608s08_lec31.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/e789212534902c110138d659368675be_MITCMS_608s08_lec31.pdf
 file_size: 55739
 file_type: application/pdf
 learning_resource_types:

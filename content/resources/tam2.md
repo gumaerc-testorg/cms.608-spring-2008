@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: "The ''All-Trump'' Bridge Variant." Charles
   Tam.'
-file: /courses/cms-608-game-design-spring-2008/db0cf996e1ff788eaf7b68a847c196f9_tam2.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/db0cf996e1ff788eaf7b68a847c196f9_tam2.pdf
 file_size: 156027
 file_type: application/pdf
 learning_resource_types:

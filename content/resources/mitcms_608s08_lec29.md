@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on the role of social play in game design.
-file: /courses/cms-608-game-design-spring-2008/86b7320fa952f994d1c5613a3a8a9745_MITCMS_608s08_lec29.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/86b7320fa952f994d1c5613a3a8a9745_MITCMS_608s08_lec29.pdf
 file_size: 299301
 file_type: application/pdf
 learning_resource_types:

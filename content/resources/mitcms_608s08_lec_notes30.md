@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on puzzle design. Notes by Clara Rhee.
-file: /courses/cms-608-game-design-spring-2008/59f727feac8fc5a4c7792c92eaf67d7d_MITCMS_608s08_lec_notes30.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/59f727feac8fc5a4c7792c92eaf67d7d_MITCMS_608s08_lec_notes30.pdf
 file_size: 24682
 file_type: application/pdf
 learning_resource_types:
