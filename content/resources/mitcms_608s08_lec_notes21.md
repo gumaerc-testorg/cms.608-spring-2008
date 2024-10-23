@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on game theory, possibility space, and the prisoner's dilemma.
   Notes by Clara Rhee.
-file: /courses/cms-608-game-design-spring-2008/137bbbc8b404efe8670fd6d3173cd4bf_MITCMS_608s08_lec_notes21.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/137bbbc8b404efe8670fd6d3173cd4bf_MITCMS_608s08_lec_notes21.pdf
 file_size: 23559
 file_type: application/pdf
 learning_resource_types:

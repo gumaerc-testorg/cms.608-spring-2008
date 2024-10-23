@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture presentation on information and uncertainty in games. '
-file: /courses/cms-608-game-design-spring-2008/b6a82516214d26a8361c693897047322_MITCMS_608s08_lec13.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/b6a82516214d26a8361c693897047322_MITCMS_608s08_lec13.pdf
 file_size: 547037
 file_type: application/pdf
 learning_resource_types:
