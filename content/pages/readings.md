@@ -348,4 +348,4 @@ Kim, Scott. "What is a Puzzle?"
 
 Orbanes, Philip E. "Learning the Game: 1898-1910." Chapter 2 in *The Game Makers: The Story of Parker Brothers, from Tiddledy Winks to Trivial Pursuit*. Cambridge, MA: Harvard Business School Press, 2003. ISBN: 9781591392699.
 
-Stewart, Sean. "[Alternate Reality Games](http://www2.bgsu.edu/departments/english/cconline/gaming_issue_2008/Bono_ARG/whatareargs.html)."
+Stewart, Sean. "[Alternate Reality Games](http://cconlinejournal.org/gaming_issue_2008/Bono_ARG/whatareargs.html)."
