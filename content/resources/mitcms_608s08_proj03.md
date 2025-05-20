@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions for a team project to design a board game that is an adaptation
   of a non-board game.
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/b5592dc646b921818ff549a0e40f2984_MITCMS_608s08_proj03.pdf
+file: /courses/cms-608-game-design-spring-2008/b5592dc646b921818ff549a0e40f2984_MITCMS_608s08_proj03.pdf
 file_size: 23824
 file_type: application/pdf
 learning_resource_types:

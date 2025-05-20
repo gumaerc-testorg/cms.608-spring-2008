@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on puzzle design.
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/b2e6910ddd10af5eadc49acf6dab1a68_MITCMS_608s08_lec30.pdf
+file: /courses/cms-608-game-design-spring-2008/b2e6910ddd10af5eadc49acf6dab1a68_MITCMS_608s08_lec30.pdf
 file_size: 583338
 file_type: application/pdf
 learning_resource_types:

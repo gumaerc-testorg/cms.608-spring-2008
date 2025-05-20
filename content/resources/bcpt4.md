@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: "Slide Slide Revolution." David Butler, Joshua
   Campoverde, Kenny Peng, Karena Tyan.'
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/da9be1a1eff34c37e1c11330839aac0e_bcpt4.pdf
+file: /courses/cms-608-game-design-spring-2008/da9be1a1eff34c37e1c11330839aac0e_bcpt4.pdf
 file_size: 261092
 file_type: application/pdf
 learning_resource_types:

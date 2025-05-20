@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on wrestling, meaning, and symbols. Courtesy of Sam Ford.
   Notes by Clara Rhee.
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/26823f0723f3f5fef4fc0065f10f4ae1_MITCMS_608s08_lec_notes31.pdf
+file: /courses/cms-608-game-design-spring-2008/26823f0723f3f5fef4fc0065f10f4ae1_MITCMS_608s08_lec_notes31.pdf
 file_size: 23404
 file_type: application/pdf
 learning_resource_types:

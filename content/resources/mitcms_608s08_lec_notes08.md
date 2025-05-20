@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the history of the classification of games, fortunetelling,
   and games of chance (Roulette, Bingo, Tarot). Notes by Clara Rhee.
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/219fdd1c9e1270e53f25887306d3ef0a_MITCMS_608s08_lec_notes08.pdf
+file: /courses/cms-608-game-design-spring-2008/219fdd1c9e1270e53f25887306d3ef0a_MITCMS_608s08_lec_notes08.pdf
 file_size: 31261
 file_type: application/pdf
 learning_resource_types:

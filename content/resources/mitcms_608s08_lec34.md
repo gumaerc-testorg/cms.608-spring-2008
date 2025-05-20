@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on lessons from table table-top versus live action roleplaying
   on computer games.
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/93069c474ba0a90062306a08d1cf4afd_MITCMS_608s08_lec34.pdf
+file: /courses/cms-608-game-design-spring-2008/93069c474ba0a90062306a08d1cf4afd_MITCMS_608s08_lec34.pdf
 file_size: 84155
 file_type: application/pdf
 learning_resource_types:

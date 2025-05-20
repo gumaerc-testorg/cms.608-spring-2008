@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for the second essay assignment of the course
   by David Butler.
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/625f1b8ed9c706220a0e37122d9a15b9_butler2.pdf
+file: /courses/cms-608-game-design-spring-2008/625f1b8ed9c706220a0e37122d9a15b9_butler2.pdf
 file_size: 126630
 file_type: application/pdf
 learning_resource_types:
