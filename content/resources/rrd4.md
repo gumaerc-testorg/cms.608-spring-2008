@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: "Use the Fours." Nick Ristuccia, Zack Reeve,
   Neil Dowgun.'
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/e82de57d75b0584c0c5c6365fc7287b4_rrd4.pdf
+file: /courses/cms-608-game-design-spring-2008/e82de57d75b0584c0c5c6365fc7287b4_rrd4.pdf
 file_size: 167128
 file_type: application/pdf
 learning_resource_types:
