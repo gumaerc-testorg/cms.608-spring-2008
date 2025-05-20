@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: "Pokerman." Justin Moe.'
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/cfa75d28343cccf31fde76de42c8f5e5_moe2.pdf
+file: /courses/cms-608-game-design-spring-2008/cfa75d28343cccf31fde76de42c8f5e5_moe2.pdf
 file_size: 131809
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: "Tablut Reconstruction." Justin Moe.'
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/2d682ee14d6dd6ad53206a9e165bfbae_moe1.pdf
+file: /courses/cms-608-game-design-spring-2008/2d682ee14d6dd6ad53206a9e165bfbae_moe1.pdf
 file_size: 894686
 file_type: application/pdf
 learning_resource_types:

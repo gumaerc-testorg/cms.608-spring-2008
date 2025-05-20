@@ -2,7 +2,7 @@
 content_type: resource
 description: Essay assignment to design a new variant of a classic clubhouse game,
   analyze the game, and address the playtest process.
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/37cc3d2561b687117535afa53414af60_MITCMS_608s08_proj02.pdf
+file: /courses/cms-608-game-design-spring-2008/37cc3d2561b687117535afa53414af60_MITCMS_608s08_proj02.pdf
 file_size: 23386
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: "A Twist on Whist." Kenny Peng.'
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/f87362b6ae6bd507ce394e12e4462e3e_peng2.pdf
+file: /courses/cms-608-game-design-spring-2008/f87362b6ae6bd507ce394e12e4462e3e_peng2.pdf
 file_size: 174205
 file_type: application/pdf
 learning_resource_types:
