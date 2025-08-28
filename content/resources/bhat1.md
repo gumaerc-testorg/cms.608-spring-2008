@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: "Rentoy." Sharat Bhat.'
-file: /courses/cms-608-game-design-spring-2008/84f33a4701ee6f553b7040365f9ca409_bhat1.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/84f33a4701ee6f553b7040365f9ca409_bhat1.pdf
 file_size: 79132
 file_type: application/pdf
 learning_resource_types:

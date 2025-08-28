@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on designing digital games.
-file: /courses/cms-608-game-design-spring-2008/2f5ff6d1647660ad87ca556719395ce6_MITCMS_608s08_lec27.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/2f5ff6d1647660ad87ca556719395ce6_MITCMS_608s08_lec27.pdf
 file_size: 35763
 file_type: application/pdf
 learning_resource_types:
