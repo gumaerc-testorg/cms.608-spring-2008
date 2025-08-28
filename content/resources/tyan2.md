@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: "Reverse Bridge." Karena Tyan.'
-file: /courses/cms-608-game-design-spring-2008/c8f4e01ab3e81df206ae378dbcac7f2e_tyan2.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/c8f4e01ab3e81df206ae378dbcac7f2e_tyan2.pdf
 file_size: 1395250
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on game design patterns and twenty formal game questions.
-file: /courses/cms-608-game-design-spring-2008/a6bbde506380807b297833b8c1036999_MITCMS_608s08_lec05.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/a6bbde506380807b297833b8c1036999_MITCMS_608s08_lec05.pdf
 file_size: 23453
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on playtesting games and poker variants. Guest lecturer
   Scot Osterweil. Notes by Clara Rhee.
-file: /courses/cms-608-game-design-spring-2008/d13b4f5d3305b12a138433b9cc29ed4a_MITCMS_608s08_lec_notes06.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/d13b4f5d3305b12a138433b9cc29ed4a_MITCMS_608s08_lec_notes06.pdf
 file_size: 24024
 file_type: application/pdf
 learning_resource_types:

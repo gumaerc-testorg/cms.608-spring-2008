@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on positive/negative feedback examples, dynamic
   difficulty adjustment, and emergence in games design.
-file: /courses/cms-608-game-design-spring-2008/d09d3c8f03e8a4359fc524c7b0062144_MITCMS_608s08_lec22.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/d09d3c8f03e8a4359fc524c7b0062144_MITCMS_608s08_lec22.pdf
 file_size: 55896
 file_type: application/pdf
 learning_resource_types:

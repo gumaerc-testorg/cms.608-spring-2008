@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on a designing a turn-based cooperative strategy
   game.
-file: /courses/cms-608-game-design-spring-2008/d9d5e02d4038e37b55370112690ac06c_MITCMS_608s08_lec25.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/d9d5e02d4038e37b55370112690ac06c_MITCMS_608s08_lec25.pdf
 file_size: 63313
 file_type: application/pdf
 learning_resource_types:
