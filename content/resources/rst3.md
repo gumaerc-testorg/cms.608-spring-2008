@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: "Roller Derby." Clara Rhee, Sarah Sperry, Tiffany
   Tseng.'
-file: /courses/cms-608-game-design-spring-2008/3905a0517b5d3f243a28eac90bafc58e_rst3.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/3905a0517b5d3f243a28eac90bafc58e_rst3.pdf
 file_size: 135842
 file_type: application/pdf
 learning_resource_types:

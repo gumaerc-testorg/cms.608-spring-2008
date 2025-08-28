@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: "DrawBridge." Sharat Bhat.'
-file: /courses/cms-608-game-design-spring-2008/d58d60dd076401b1f76ce0a4fec651d9_bhat2.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2008/d58d60dd076401b1f76ce0a4fec651d9_bhat2.pdf
 file_size: 75599
 file_type: application/pdf
 learning_resource_types:
