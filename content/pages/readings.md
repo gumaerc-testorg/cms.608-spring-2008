@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Readings
 uid: b5f629aa-568f-ba3c-25ba-92adfbed35c0
 ---
-This section presents readings by session after a complete list of citations, as well as {{% resource_link "7e5cb25b-3146-47ac-ad1f-b6b0ae541072" "additional readings" %}} for the course.
+This section presents readings by session after a complete list of citations, as well as [additional readings](https://ocw-studio.odl.mit.edu/sites/cms-608-game-design-spring-2008/type/page/edit/b5f629aa-568f-ba3c-25ba-92adfbed35c0/#additional_readings) for the course.
 
 ## Assigned Readings
 
@@ -20,13 +20,13 @@ Fullerton, Tracy. *Game Design Workshop*. 2nd ed. Burlington, MA: Morgan Kaufman
 
 Gygax, Gary, and Dave Arneson. *Dungeons and Dragons*. Lake Geneva, WI: Tactical Studies Rules, 1974.
 
-Hunicke, Robin, Marc LeBlanc, and Robert Zubek. "MDA: A Formal Approach to Game Design and Game Research." In *Proceedings of the Challenges in Game AI Workshop at the 19th National Conference on Artificial Intelligence*. San Jose, CA: AAAI Press, 2004. ({{% resource_link "7a70cb8a-9c5e-4bf6-8a46-0ff5cc309aeb" "PDF" %}})
+Hunicke, Robin, Marc LeBlanc, and Robert Zubek. "MDA: A Formal Approach to Game Design and Game Research." In *Proceedings of the Challenges in Game AI Workshop at the 19th National Conference on Artificial Intelligence*. San Jose, CA: AAAI Press, 2004. ([PDF](http://www.cs.northwestern.edu/~hunicke/MDA.pdf))
 
-Juul, Jesper. "{{% resource_link "cc615640-4281-419d-a7a7-8a611ab200e6" "Swap Adjacent Gems to Make Sets of Three: A History of Matching Tile Games" %}}." *Artifact* 1 (2007): 205-216.
+Juul, Jesper. "[Swap Adjacent Gems to Make Sets of Three: A History of Matching Tile Games](http://www.jesperjuul.net/text/swapadjacent/)." *Artifact* 1 (2007): 205-216.
 
-———. "{{% resource_link "d7037c9e-d6d2-45e0-92e2-9cf6a7092aa3" "The Open and the Closed: Games of Emergence and Games of Progression" %}}." In *Computer Games and Digital Cultures Conference Proceedings*. Edited by Frans Mäyrä. Tampere, Finland: Tampere University Press, 2002, pp. 323-329.
+———. "[The Open and the Closed: Games of Emergence and Games of Progression](http://www.jesperjuul.net/text/openandtheclosed.html)." In *Computer Games and Digital Cultures Conference Proceedings*. Edited by Frans Mäyrä. Tampere, Finland: Tampere University Press, 2002, pp. 323-329.
 
-Mezrich, Ben. "{{% resource_link "b8e72d67-38a0-40ba-8954-ff93f12459ff" "Hacking Las Vegas" %}}." *Wired*, no. 10.09 (September 2002).
+Mezrich, Ben. "[Hacking Las Vegas](http://www.wired.com/wired/archive/10.09/vegas.html)." *Wired*, no. 10.09 (September 2002).
 
 Parlett, David. *Oxford History of Board Games*. New York, NY: Oxford University Press, 1999. ISBN: 9780192129987.
 
@@ -34,13 +34,13 @@ Parlett, David. *Oxford History of Board Games*. New York, NY: Oxford University
 
 Piccione, Peter A. "In Search of the Meaning of Senet." *Archaeology* 33 (July/August 1980): 55-58.
 
-{{% resource_link "ccf72d26-4f8a-493e-a2c5-7d198bfd884e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Salen, Katie, and Eric Zimmerman. {{% resource_link "ccf72d26-4f8a-493e-a2c5-7d198bfd884e" "*Rules of Play: Game Design Fundamentals*" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 9780262240451.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262240451) Salen, Katie, and Eric Zimmerman. [*Rules of Play: Game Design Fundamentals*](https://mitpress.mit.edu/9780262240451). Cambridge, MA: MIT Press, 2003. ISBN: 9780262240451.
 
-{{% resource_link "a9fbe05c-8000-42f8-b725-ccb3bb855076" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. {{% resource_link "a9fbe05c-8000-42f8-b725-ccb3bb855076" "*The Game Design Reader: A Rules of Play Anthology*" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 9780262195362.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262195362) ———. [*The Game Design Reader: A Rules of Play Anthology*](https://mitpress.mit.edu/9780262195362). Cambridge, MA: MIT Press, 2005. ISBN: 9780262195362.
 
-Wells, H. G. {{% resource_link "fad4cd66-7a3e-4817-90f3-71b945a492f4" "*Little Wars*" %}}. Whitefish, MT: Kessinger Publishing, 2004. ISBN: 9781419130908.
+Wells, H. G. [*Little Wars*](https://www.gutenberg.org/files/3691/3691-h/3691-h.htm). Whitefish, MT: Kessinger Publishing, 2004. ISBN: 9781419130908.
 
-{{% resource_link "a1dbeeed-e379-4521-9311-3e08177e4a5f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Zimmerman, Eric. "{{% resource_link "26b2e44d-2aa6-40cc-aeea-168b44012b68" "Play as Research: The Iterative Design Process" %}}." In {{% resource_link "a1dbeeed-e379-4521-9311-3e08177e4a5f" "*Design Research: Methods and Perspectives*" %}}. Edited by Brenda Laurel. Cambridge, MA: MIT Press, 2003, p. 176. ISBN: 9780262122634.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122634) Zimmerman, Eric. "[Play as Research: The Iterative Design Process](https://famst109mg.wordpress.com/2017/01/17/play-as-research-the-iterative-design-process-eric-zimmerman/)." In [*Design Research: Methods and Perspectives*](https://mitpress.mit.edu/9780262122634). Edited by Brenda Laurel. Cambridge, MA: MIT Press, 2003, p. 176. ISBN: 9780262122634.
 
 ## Readings by Session
 
@@ -68,7 +68,7 @@ Lecture: design \[JJ\]
 
 *Rules of Play,* Ch. 3.
 
-Zimmerman, Eric. "{{% resource_link "26b2e44d-2aa6-40cc-aeea-168b44012b68" "Play as Research: The Iterative Design Process" %}}."
+Zimmerman, Eric. "[Play as Research: The Iterative Design Process](https://famst109mg.wordpress.com/2017/01/17/play-as-research-the-iterative-design-process-eric-zimmerman/)."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -78,7 +78,7 @@ Workshop: introduction to playtesting \[DR\]
 
 Fullerton, Tracy. *Game Design Workshop*, Ch. 8.
 
-Wells, H. G. {{% resource_link "4616424b-9baa-49ca-a01f-81f87b421232" "*Little Wars*" %}}.
+Wells, H. G. [*Little Wars*](http://www.gutenberg.org/etext/3691).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -86,9 +86,9 @@ Wells, H. G. {{% resource_link "4616424b-9baa-49ca-a01f-81f87b421232" "*Little W
 Lecture: types of fun and game history \[JJ\]
 {{< tdclose >}}{{< tdopen >}}
 
-Hunicke, LeBlanc, and Zubek. "MDA: A Formal Approach to Game Design and Game Research." ({{% resource_link "7a70cb8a-9c5e-4bf6-8a46-0ff5cc309aeb" "PDF" %}})
+Hunicke, LeBlanc, and Zubek. "MDA: A Formal Approach to Game Design and Game Research." ([PDF](http://www.cs.northwestern.edu/~hunicke/MDA.pdf))
 
-Juul, Jesper. "{{% resource_link "cc615640-4281-419d-a7a7-8a611ab200e6" "Swap Adjacent Gems to Make Sets of Three: A History of Matching Tile Games" %}}."
+Juul, Jesper. "[Swap Adjacent Gems to Make Sets of Three: A History of Matching Tile Games](http://www.jesperjuul.net/text/swapadjacent/)."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -134,7 +134,7 @@ Callois, Roger. *Man, Play, and Games*, Ch. 8.
 Lecture: the player \[CFV\]
 {{< tdclose >}}{{< tdopen >}}
 
-Bartle, Richard. "{{% resource_link "a53648af-5175-457e-aa41-5b2acaf4b2cb" "Players Who Suit MUDs" %}}."
+Bartle, Richard. "[Players Who Suit MUDs](http://www.mud.co.uk/richard/hcds.htm)."
 
 Bateman, Chris, and Boon, Richard. *21st Century Game Design*, Ch. 3.
 
@@ -179,7 +179,7 @@ Parlett, David. *Oxford History of Board Games*, Ch. 3 and 5.
 {{< tdclose >}}{{< tdopen >}}
 Guest lecture, Dennis Loo: gambling and probability
 {{< tdclose >}}{{< tdopen >}}
-Mezrich, Ben. "{{% resource_link "b8e72d67-38a0-40ba-8954-ff93f12459ff" "Hacking Las Vegas" %}}."
+Mezrich, Ben. "[Hacking Las Vegas](http://www.wired.com/wired/archive/10.09/vegas.html)."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
@@ -216,7 +216,7 @@ Lecture: feedback and emergence \[JJ\]
 
 *Rules of Play*, Ch. 18.
 
-Juul, Jesper. "{{% resource_link "d7037c9e-d6d2-45e0-92e2-9cf6a7092aa3" "The Open and the Closed: Games of Emergence and Games of Progression" %}}."
+Juul, Jesper. "[The Open and the Closed: Games of Emergence and Games of Progression](http://www.jesperjuul.net/text/openandtheclosed.html)."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -256,7 +256,7 @@ Lecture: digital games \[JJ\]
 
 *Rules of Play*, Ch. 8 and 13.
 
-{{% resource_link "21fd4197-9fc4-47f4-9b46-f8c0af3d2d7e" "The 400 Project" %}}
+[The 400 Project](http://www.finitearts.com/Pages/400page.html)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 28
@@ -340,7 +340,7 @@ Lecture: course evaluations and postmortem \[PT\]
 
 ## {{< anchor "additional_readings" >}}{{< /anchor >}}Additional Readings
 
-Church, Ben. "{{% resource_link "8e5822e2-c933-4fe0-b996-e8d46b30d79c" "Formal Abstract Design Tools" %}}." *Game Developer* 3 (August 1999): 28.
+Church, Ben. "[Formal Abstract Design Tools](http://www.gamasutra.com/features/19990716/design_tools_01.htm)." *Game Developer* 3 (August 1999): 28.
 
 Halpern, Charna, et al. *Truth in Comedy: The Manual of Improvisation*. Colorado Springs, CO: Meriwether Publishing, 1994, pp. 59-63. ISBN: 9781566080033.
 
@@ -348,4 +348,4 @@ Kim, Scott. "What is a Puzzle?"
 
 Orbanes, Philip E. "Learning the Game: 1898-1910." Chapter 2 in *The Game Makers: The Story of Parker Brothers, from Tiddledy Winks to Trivial Pursuit*. Cambridge, MA: Harvard Business School Press, 2003. ISBN: 9781591392699.
 
-Stewart, Sean. "{{% resource_link "37ba4208-44ba-4d7b-b244-e6b626f99ba5" "Alternate Reality Games" %}}."
+Stewart, Sean. "[Alternate Reality Games](http://cconlinejournal.org/gaming_issue_2008/Bono_ARG/whatareargs.html)."
